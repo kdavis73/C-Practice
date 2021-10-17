@@ -1,5 +1,5 @@
 /* In this program, we ask the user to enter a number from the keyboard and 
-then print "Hello World" n number of times. */
+then print "Hello World" n number of times.. */
 
 #include <stdio.h>
 
